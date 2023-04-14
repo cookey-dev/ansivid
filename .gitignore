@@ -1,0 +1,9 @@
+node_modules
+GM
+frames
+.vscode
+*.mp4
+core
+fps
+load
+process
